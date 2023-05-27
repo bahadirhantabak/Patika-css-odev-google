@@ -1,0 +1,75 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#table {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+td#bir-bir p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#search-text {
+    width: 300px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#bir-bir {
+    background-color: #EEEEEE;
+    width: 100%;    
+}
+
+#iki-bir {
+    background-color: #7EE5DA;
+    width: 30%;
+}
+
+#iki-iki {
+    background-color: #70CCC2;
+    width: 30%;
+}
+
+#iki-uc {
+    background-color: #62B3AA;
+    width: 40%;
+}
+
+td > ul {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+td > ul > li {
+    list-style-type: none;
+}
+
+td#iki-iki {
+    font-size: 13px;
+}
+
+td#iki-uc p {
+    font-size: 13px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+input#email {
+    margin-top: 0px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer p {
+    font-size: 12px;
+}
